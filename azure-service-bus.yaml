@@ -1,0 +1,3 @@
+queue_name: "kedaservicebus"
+connection_string: "Endpoint=sb://kedabus.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=G+LNTMK5l67/ckjIVw/k+SilZ/MNxxcpIZFzicyCh7c="
+
